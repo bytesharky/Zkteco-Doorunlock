@@ -2,7 +2,7 @@
 
 这是一个Zkteco系列考勤机的非官方软件库。采用纯php编写，支持设置通信密码，你可以使用它实现通过Website方式轻松的控制你的zkteco系列考勤机，而不需要安装官方SDK。
 
-此代码由 [Forgot Fish](https://www.doffish.com) 改编自国外一大神用Python写的 [pyzk](https://github.com/fananimi/pyzk)。此代码并未没有实现全部的功能，因为我只是用来实现Zkteco-F18门禁机的远程开门，并且没有实现TCP连接，仅实现了UPD连接，需要的可以自行扩展。
+此代码由 [Forgot Fish](https://www.doffish.com) 改编自国外一大神用Python写的 [pyzk](https://github.com/fananimi/pyzk)。此代码并未没有实现全部的功能，因为我只是用来实现Zkteco-F18门禁机的远程开门，并且没有实现TCP连接，仅实现了UDP连接，需要的可以自行扩展。
 
 # Demonstration
 
